@@ -13,30 +13,30 @@ Penn Signals is an award-winning (https://goo.gl/MHqwVv) microservices software 
 ### Problem (10 mins)
 
 - Healthcare data standards or lack thereof
- - HL7
- - Clinical database solutions
- - "RESTful" APIs `/s`
+  - HL7
+  - Clinical database solutions
+  - "RESTful" APIs `/s`
 - Various types of healthcare data issues
- - Timestamps, latency, time zones (data from the future!)
- - Pipeline availability (where's my freakin' data?)
- - Patient identifier inconsistency (80-year-old newborns?!)
- - Multiple fields referring to the same types of data (heart rate, pulse, etc.)
- - AND MORE!
+  - Timestamps, latency, time zones (data from the future!)
+  - Pipeline availability (where's my freakin' data?)
+  - Patient identifier inconsistency (80-year-old newborns?!)
+  - Multiple fields referring to the same types of data (heart rate, pulse, etc.)
+  - AND MORE!
 - Delivering products to clinicians
- - Security
- - Ease of use
- - Integrating with the Electronic Medical Record (EMR)
- - Providing actionable insights
+  - Security
+  - Ease of use
+  - Integrating with the Electronic Medical Record (EMR)
+  - Providing actionable insights
 
 ### Solution (10 mins)
 
 - Open source software (5 mins):
- - [Docker](https://www.docker.com/)
- - [ZeroMQ](http://zeromq.org/)
- - [Consul](https://www.consul.io/)
- - [Vault](https://www.vaultproject.io/)
- - [Jupyter](http://jupyter.org/)
- - [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html)
+  - [Docker](https://www.docker.com/)
+  - [ZeroMQ](http://zeromq.org/)
+  - [Consul](https://www.consul.io/)
+  - [Vault](https://www.vaultproject.io/)
+  - [Jupyter](http://jupyter.org/)
+  - [PySpark](https://spark.apache.org/docs/0.9.0/python-programming-guide.html)
 - Putting it all together (5 mins)
 
 ### Demo (5 mins)
